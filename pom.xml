@@ -50,8 +50,14 @@
             <properties>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
                 <sonar.host.url>
-                    http://localhost:9000
+                    http://3.86.193.161:9000
                 </sonar.host.url>
+                     <sonar.login>
+                     admin
+                     </sonar.login>
+                <sonar.password>
+                     admin
+                     </sonar.password>
             </properties>
         </profile>
         <profile>
